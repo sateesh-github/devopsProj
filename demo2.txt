@@ -1,0 +1,2 @@
+adding text to demo2.txt file
+enter 2nd line here
